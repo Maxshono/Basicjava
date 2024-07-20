@@ -24,14 +24,14 @@ public class Superheroornot {
 
 		case "Max":
 
-			System.out.println("Maxis a hero");
+			System.out.println("Max is a hero");
 
 			break;
 
 
 		default:
 			System.out.println("Sorry i can't guess");
-			break;
+			
 		}
 	}
 

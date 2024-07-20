@@ -7,7 +7,7 @@ public class CollectAmount {
 	
 	
 	public Integer collectamountandgiveittome() {
-		System.out.println("Daddy i have collected amount is "+collectedamount);
+		System.out.println("Daddy i have collected amount is "+collectedamount+ "and sent it to u");
 		return collectedamount;
 	}
 	public static void main(String[] args) {

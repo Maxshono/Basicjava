@@ -16,6 +16,7 @@ public class Stringexamples {
 		System.out.println(name.equalsIgnoreCase("MAXSHONO"));
 		
 		System.out.println(name.isEmpty());
+		System.out.println("*****************");
 		
 		System.out.println(name.contains("x"));
 		

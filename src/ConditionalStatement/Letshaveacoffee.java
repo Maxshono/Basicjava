@@ -3,7 +3,7 @@ package ConditionalStatement;
 public class Letshaveacoffee {
 
 	
-	 boolean iscupempty;
+	 boolean iscupempty=false;
 	public static void main(String[] args) {
 		  Letshaveacoffee letshaveacoffee = new Letshaveacoffee();
 
